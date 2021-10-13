@@ -1,3 +1,3 @@
 Personal Static Website
 
-#akshaythummar.me
+http://akshaythummar.me
